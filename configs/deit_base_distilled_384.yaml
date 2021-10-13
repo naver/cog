@@ -1,0 +1,7 @@
+# ImageNet-CoG Benchmark
+# Copyright 2021-present NAVER Corp.
+# 3-Clause BSD License​
+
+FT_EXTRACT:
+    IMAGE_RESIZE_SIZE: 384
+    IMAGE_CROP_SIZE: 384

@@ -1,0 +1,9 @@
+# ImageNet-CoG Benchmark
+# Copyright 2021-present NAVER Corp.
+# 3-Clause BSD License​
+
+# See https://github.com/facebookresearch/pycls/blob/master/configs/dds_baselines/effnet/EN-B1_dds_8gpu.yaml
+# for input size at training time
+FT_EXTRACT:
+    IMAGE_RESIZE_SIZE: 240
+    IMAGE_CROP_SIZE: 240
